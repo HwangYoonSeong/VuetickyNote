@@ -5,4 +5,4 @@
 * 사용자 위치에 따른 날씨 표시(OpenAPI)
 
 ### link
-[VuetickyNote](vueticky-note-b08f1.web.app)
+[VuetickyNote](https://vueticky-note-b08f1.web.app/)
